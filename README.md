@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIP<br>🚀 Explorando a linguagem C e aprimorando habilidades em lógica e programação<br>🎯 Objetivo: Contribuir para projetos de software práticos e inovadores<br>📚 Atualmente estudando frameworks ágeis como Scrum e fortalecendo conhecimentos em tecnologia<br><br>🛠️ Habilidades em desenvolvimento:<br><br>•Programação em C<br>•Estruturação de sistemas e •organização de código<br>•Aprendizado contínuo e resolução de problemas<br><br>🌟 Projetos em andamento:<br>Atualmente, estou desenvolvendo, junto com alguns amigos, um sistema para hortifruti, com funcionalidades como:<br><br>•Fluxo de caixa<br>•Controle de estoque<br>•Cadastro de produtos</p>
+<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIP<br>🚀 Explorando a linguagem C e aprimorando habilidades em lógica e programação<br>🎯 Objetivo: Contribuir para projetos de software práticos e inovadores<br>📚 Atualmente estudando frameworks ágeis como Scrum e fortalecendo conhecimentos em tecnologia<br><br>🛠️ Habilidades em desenvolvimento:<br><br>•Programação em C<br>•Estruturação de sistemas e organização de código<br>•Aprendizado contínuo e resolução de problemas<br><br>🌟 Projetos em andamento:<br>Atualmente, estou desenvolvendo, junto com alguns amigos, um sistema para hortifruti, com funcionalidades como:<br><br>•Fluxo de caixa<br>•Controle de estoque<br>•Cadastro de produtos</p>
 
 ###
 
